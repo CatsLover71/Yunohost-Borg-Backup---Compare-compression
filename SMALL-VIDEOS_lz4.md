@@ -1,3 +1,4 @@
+```
 
 https://paste.yunohost.org/raw/favemoloqe
 
@@ -120,3 +121,4 @@ All archives:               40.54 GB             39.07 GB             38.56 GB
                        Unique chunks         Total chunks
 Chunk index:                   59368                61064
 
+```
