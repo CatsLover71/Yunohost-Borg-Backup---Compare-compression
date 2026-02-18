@@ -8,11 +8,12 @@ If you're in a hurry, spoiler alert, there's no major difference.
 
 ## Dataset used
 
-  20.1 GB of 1528 small video files called SMALL-VIDEO
-  20.4 GB of 7 big video files called BIG-VIDEO
-  A Calibre-web application of 15 Go mainly ePub and PDF files called CALIBRE
-  A mobilizon application of 2.96 Go called MOBILIZON
-  A Funkwhale app of 13 Go mainly composed of mp3 files called FUNKWHALE
+  - 20.1 GB of 1528 small video files called SMALL-VIDEO
+  - 20.4 GB of 7 big video files called BIG-VIDEO
+  - Calibre-web application of 15 Go mainly ePub and PDF files called CALIBRE
+  - Mobilizon application of 2.96 Go called MOBILIZON
+  - Funkwhale application of 13 Go mainly composed of mp3 files called FUNKWHALE
+
 
     
 ## summary results using borg info
