@@ -1,7 +1,4 @@
 ```
-
-https://paste.yunohost.org/raw/favemoloqe
-
 args:
   apps:
   - my_webapp
