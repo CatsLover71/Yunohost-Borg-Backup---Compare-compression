@@ -23,41 +23,46 @@ The global archive datas application by application are not significant cause te
 Small videos :
                        Original size      Compressed size    Deduplicated size
 This archive lz4            21.65 GB             21.48 GB             21.46 GB
-This archive: zstd3         21.65 GB             21.45 GB             21.44 GB
+This archive: auto,zstd3    21.65 GB             21.45 GB             21.44 GB
+This archive: zstd3         21.65 GB             21.34 GB             21.31 GB
 
 Big videos :
 
                        Original size      Compressed size    Deduplicated size
 This archive lz4            21.92 GB             21.92 GB             21.92 GB
-This archive zstd3          21.92 GB             21.92 GB             21.92 GB
-
+This archive auto,zstd3     21.92 GB             21.92 GB             21.92 GB
+This archive: zstd3         21.92 GB             21.91 GB             21.91 GB
 
 Calibre web :
 
                        Original size      Compressed size    Deduplicated size
 This archive lz4               15.97 GB             14.91 GB             14.42 GB
-This archive zstd3             15.97 GB             14.64 GB             14.15 GB
+This archive auto,zstd3        15.97 GB             14.64 GB             14.15 GB
+This archive: zstd3            15.97 GB             14.52 GB             14.03 GB
 
 
 Mobilizon
 
                        Original size      Compressed size    Deduplicated size
 This archive lz4             2.92 GB              2.68 GB              2.67 GB
-This archive zstd3           2.92 GB              2.61 GB              2.61 GB
+This archive auto,zstd3      2.92 GB              2.61 GB              2.61 GB
+This archive: zstd3          2.92 GB              2.61 GB              2.61 GB
 
 
 Funkwhale
 
                        Original size      Compressed size    Deduplicated size
 This archive lz4            13.27 GB             12.41 GB             12.16 GB
-This archive zstd3          13.27 GB             12.30 GB             12.06 GB
+This archive auto,zstd3     13.27 GB             12.30 GB             12.06 GB
+This archive zstd3          13.26 GB             12.28 GB             12.03 GB
 
 
 Final size of repositories
 
                        Original size      Compressed size    Deduplicated size
 All archives lz4            75.74 GB             73.40 GB             72.64 GB 
-All archives zstd3          75.74 GB             72.93 GB             72.19 GB
+All archives auto,zstd3     75.74 GB             72.93 GB             72.19 GB
+All archives zstd3          75.72 GB             72.66 GB             71.89 GB
 ```
 
 ## A bit more detailled results
